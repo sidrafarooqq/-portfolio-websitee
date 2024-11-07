@@ -1,9 +1,9 @@
 'use client'
-import { useRouter } from 'next/navigation'
+
 import React from 'react'
 
 function About() {
-    const route=useRouter()
+  
   return (
 
     
@@ -20,7 +20,7 @@ function About() {
                 <div className='flex justify-center  text-black text-inherit  pr-28 '>
                     
                     <p className='pl-20 text-2xl'>
-                    <b>Welcome to my About page!.</b> <i>I am a dedicated web developer with a strong foundation in HTML, CSS, and TypeScript. My journey in web development began with a fascination for how websites work, and it has since evolved into a passion for creating engaging and user-friendly digital experiences. Currently, I'm expanding my skill set by learning Next.js and React.js, which allows me to build dynamic applications that enhance user interaction and functionality. I love tackling challenges and finding innovative solutions that bring ideas to life. Whether it’s developing a responsive design or optimizing performance, I am committed to delivering high-quality work.
+                    <b>Welcome to my About page!.</b> <i>I am a dedicated web developer with a strong foundation in HTML, CSS, and TypeScript. My journey in web development began with a fascination for how websites work, and it has since evolved into a passion for creating engaging and user-friendly digital experiences. Currently, Iaposm expanding my skill set by learning Next.js and React.js, which allows me to build dynamic applications that enhance user interaction and functionality. I love tackling challenges and finding innovative solutions that bring ideas to life. Whether it&aposs developing a responsive design or optimizing performance, I am committed to delivering high-quality work.
                     </i></p>
                     </div>
                 </div>
