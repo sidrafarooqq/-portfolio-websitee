@@ -1,12 +1,11 @@
 'use client'
 import React from 'react'
-import Image from 'next/image';
-import { useRouter } from 'next/navigation';
+
+
 
 const Projects = () => {
 
 
-  const route= useRouter()
   
   return (
    <div>
@@ -19,7 +18,7 @@ const Projects = () => {
         <p className="text-lg mb-8 pt-7">
           Command-Line Interface (CLI) Projects
           <br />
-          Below are some of the CLI-based projects I've developed, 
+          Below are some of the CLI-based projects I&aposve developed, 
           <br/>showcasing my skills.
         </p>
       </div>
